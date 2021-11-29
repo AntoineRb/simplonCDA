@@ -5,17 +5,17 @@
 ### Jeudi 18/11/2021 :
 
 
-* [ ] Choix de son éditeur, configuration et customisation
-* [ ] Découverte de VS Code
-* [ ] Découverte de Vim
+* [X][ ] Choix de son éditeur, configuration et customisation
+* [X] Découverte de VS Code
+* [X] Découverte de Vim
 
-* [ ] Comprendre l'intérêt des raccourcis clavier
-* [ ] Découverte des raccourcis clavier Linux : 
-  * [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-  * [ ] Terminal (fenêtres, onglets, commandes)
-  * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
+* [X] Comprendre l'intérêt des raccourcis clavier
+* [X] Découverte des raccourcis clavier Linux : 
+  * [X] Navigateur (fenêtres, onglets, navigation, etc …)
+  * [X] Terminal (fenêtres, onglets, commandes)
+  * [X] Découverte et installation de Albert (Linux) / Alfred (Mac)
 
-* [ ] Faire le cours "Comprendre le web" (Openclassrooms)
-* [ ] Faire le cours "Apprendre à apprendre" (Openclassrooms)
+* [X] Faire le cours "Comprendre le web" (Openclassrooms)
+* [X] Faire le cours "Apprendre à apprendre" (Openclassrooms)
 
 
