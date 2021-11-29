@@ -5,6 +5,7 @@
 
 ### CSS :
 
+
 * [X] Savoir manipuler les polices en CSS
 * [X] Découvrir Google Fonts
 * [X] Savoir intégrer des polices extérieures dans le CSS
@@ -16,3 +17,5 @@
   * [X] Comprendre l'utilité du responsive design
   * [X] Comprendre le fonctionnement des medias queries
   * [X] Comprendre la notion de mobile first
+
+

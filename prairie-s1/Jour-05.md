@@ -4,11 +4,8 @@
 
 ### Vendredi 19/11/2021 :
 
+
 * [X] Faire le wargame bandit jusqu'au niveau 5 (anglais)
-
-
-
-Seulement si le wargame bandit est au niveau 5 minimum : 
 
 * [X] Création de compte Github
 * [X] Installation et/ou configuration de Git
@@ -30,4 +27,5 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 
 * [X] Créer son premier repo Github
 * [X] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
+
 

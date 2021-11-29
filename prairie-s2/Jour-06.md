@@ -9,6 +9,7 @@
 * [X] Reformulation et synthèse des demandes utilisateurs
 
 
+
 ### Découverte du Markdown : 
 
 * [X] Comprendre l'intérêt du Markdown
@@ -25,9 +26,11 @@
 * [X] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
 
 
+
 ### Méthodes agiles :
 
 * [X] Initiation aux méthodes agiles
 * [X] Mise en place la méthodologie Scrum
 * [X] Mise en place du premier projet sur Jira
 * [X] Découverte de Gitflow
+

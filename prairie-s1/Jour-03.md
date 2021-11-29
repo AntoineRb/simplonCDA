@@ -4,6 +4,7 @@
 
 ### Mercredi 17/11/2021 :
 
+
 * [X] Commencer à réfléchir à son projet Fil rouge
 
 * [X] Configuration de son environnement de travail

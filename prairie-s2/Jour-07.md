@@ -13,6 +13,7 @@
 
 ### HTML :
 
+<<<<<<< HEAD
 * [X] Découvrir les bases de HTML :
   *[X] Comprendre la structure de base HTML
   * [X] Découvrir les principaux tags HTML et comprendre leur utilité
@@ -28,3 +29,4 @@
   * [X] Comprendre l'utilité et le fonctionnement des labels en HTML5
   * [X] Comprendre le fonctionnement des dropdwowns, boutons radio, et checkbox
   * [X] Savoir insérer une vidéo dans une page HTML (Youtube, locale)
+

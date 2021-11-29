@@ -11,3 +11,4 @@
 * [X] S'interroger sur son mode de fonctionnement en termes d'apprentissage
 * [X] Partager ses expériences d'apprentissage, échanger des trucs et astuces
 * [X] Finaliser son dossier administratif
+
