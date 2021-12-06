@@ -4,7 +4,7 @@
 
 ### Javascript
 
-* [ ] Comprendre le fonctionnement des boucles `while` et `for` (https://javascript.info/while-for)
+* [X] Comprendre le fonctionnement des boucles `while` et `for` (https://javascript.info/while-for)
   * [ ] Faire les 7 exercices et analyser ses erreurs
 * [ ] Comprendre le fonctionnement du `switch` (https://javascript.info/switch)
   * [ ] Faire les 7 exercices et analyser ses erreurs
@@ -18,6 +18,6 @@
 
 #### Exercices
 
-* [ ] S'inscrire sur Codewars : https://www.codewars.com
+* [X] S'inscrire sur Codewars : https://www.codewars.com
 * [ ] Faire le kata "Function 1 - hello world" (https://www.codewars.com/kata/function-1-hello-world/javascript)
 * [ ] Faire le kata "Even or Odd" (8 kyu) : https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/
