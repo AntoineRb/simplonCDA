@@ -4,13 +4,19 @@
 
 ### Javascript :
 
-* [ ] Comprendre l'importance du style dans le code et s'approprier les conventions dans l'objectif de rendre son code le plus lisible possible (https://javascript.info/coding-style)
+* [X] Comprendre l'importance du style dans le code et s'approprier les conventions dans l'objectif de rendre son code le plus lisible possible (https://javascript.info/coding-style)
   * [ ] Faire l’exercice et analyser ses erreurs
-* [ ] Comprendre l'utilité des commentaires, savoir faire la différence entre un code bien commenté et un code mal commenté (https://javascript.info/comments)
-* [ ] Devenir un Ninja du code (https://javascript.info/ninja-code)
-* [ ] Comprendre ce que sont les polyfills et leur utilité (https://javascript.info/polyfills)
-  * [ ] Comprendre la différence entre "transpilation" et "compilation"
-  * [ ] Comprendre l'utilité de Babel
+* [X] Comprendre l'utilité des commentaires, savoir faire la différence entre un code bien commenté et un code mal commenté (https://javascript.info/comments)
+* [X] Devenir un Ninja du code (https://javascript.info/ninja-code)
+  Note : écrire des lignes de code les plus courtes et compréhensible possible.
+* [X] Comprendre ce que sont les polyfills et leur utilité (https://javascript.info/polyfills)
+  Note: Utile pour utiliser de nouvelles fonctions sur des anciens navigateurs web.
+  * [X] Comprendre la différence entre "transpilation" et "compilation"
+    Note :
+    _ La compilation est le terme général pour prendre le code source écrit dans un langage et le transformer en un autre.
+    _ Transpiler est un terme spécifique pour prendre du code source écrit dans un langage et le transformer en un autre langage qui a un niveau d'abstraction similaire.
+  * [X] Comprendre l'utilité de Babel
+    Note : Babel est un transpileur JavaScript qui convertit le JavaScript Edge en JavaScript ES5 simple qui peut s'exécuter dans n'importe quel navigateur (même les plus anciens). Il rend disponible tout le sucre syntaxique qui a été ajouté à JavaScript avec la nouvelle spécification ES6, y compris les classes, les fat arrows et les strings multilignes.
   
 
 #### Exercices
