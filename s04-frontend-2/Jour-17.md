@@ -28,6 +28,10 @@
 
 ### Algo (Révision) : 
 
-  * [ ] Revoir le mécanisme de tri par selection (Selection Sort)
-  * [ ] Revoir le mécanisme de tri par tas (Heap Sort)
-  * [ ] Revoir le mécanisme de tri fusion (Merge Sort)
+  * [X] Revoir le mécanisme de tri par selection (Selection Sort)
+    Note : Analyse de toutes les valeurs, selection de la plus petite, puis
+    on l'insère au début, on réitére, ..., on insère la valeur à l'index suivant
+  * [X] Revoir le mécanisme de tri par tas (Heap Sort)
+    Note : Une exécution de l'algorithme du tri par tas (Heapsort) trie une partie des valeurs permutées au hasard. Dans un premier temps, les éléments sont réarrangés pour respecter les conditions de tas. Avant le tri à proprement parler, la structure de l'arbre en tas est montrée brièvement par l'[illustration](https://fr.wikipedia.org/wiki/Tri_par_tas#Principe).
+  * [X] Revoir le mécanisme de tri fusion (Merge Sort)
+    Note : [ressource](https://fr.wikipedia.org/wiki/Tri_fusion#Intuition)
