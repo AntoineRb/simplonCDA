@@ -5,17 +5,17 @@
 
 ### Javascript :
 
-* [ ] Comprendre le système de `Garbage Collection` (https://fr.javascript.info/garbage-collection)
-  * [ ] Comprendre son utilité, les conditions de son déclenchement, sa manipulation
-* [ ] Comprendre le `this` en Javascript (https://fr.javascript.info/object-methods)
-  * [ ] Faire les 5 exercices et analyser ses erreurs
-* [ ] Découvrir le Chaînage optionnel `?.` (https://fr.javascript.info/object-toprimitive)
-* [ ] Découvrir les méthodes de primitives (https://fr.javascript.info/primitives-methods)
-  * [ ] Faire l’exercice et analyser ses erreurs
-* [ ] Appronfondir les `numbers` en Javascript (https://fr.javascript.info/number)
-  * [ ] Faire les 6 exercices et analyser ses erreurs
-* [ ] Comprendre le fonctionnement des tableaux en Javascript (https://fr.javascript.info/array)
-* [ ] Approfondir les tableaux en Javascript en faisant le tour des méthodes disponibles (https://fr.javascript.info/array-methods)
+* [X] Comprendre le système de `Garbage Collection` (https://fr.javascript.info/garbage-collection)
+  * [X] Comprendre son utilité, les conditions de son déclenchement, sa manipulation
+* [X] Comprendre le `this` en Javascript (https://fr.javascript.info/object-methods)
+  * [X] Faire les 5 exercices et analyser ses erreurs
+* [X] Découvrir le Chaînage optionnel `?.` (https://fr.javascript.info/object-toprimitive)
+* [X] Découvrir les méthodes de primitives (https://fr.javascript.info/primitives-methods)
+  * [X] Faire l’exercice et analyser ses erreurs
+* [X] Appronfondir les `numbers` en Javascript (https://fr.javascript.info/number)
+  * [X] Faire les 6 exercices et analyser ses erreurs
+* [X] Comprendre le fonctionnement des tableaux en Javascript (https://fr.javascript.info/array)
+* [X] Approfondir les tableaux en Javascript en faisant le tour des méthodes disponibles (https://fr.javascript.info/array-methods)
 
 
 
